@@ -1,0 +1,6 @@
+{
+  "name": "ҰСТАЗ LAB",
+  "description": "Қазақ тілі мен қазақ әдебиеті пәндеріне арналған AI жұмыс парағы конструкторы",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
